@@ -9,6 +9,9 @@ A simple weather application built with Python to fetch real-time weather data u
 - Displays temperature, humidity, and weather description.
 - Simple and user-friendly graphical interface.
 - Handles user input and displays relevant error messages.
+![image](https://github.com/user-attachments/assets/e3dd3b05-5a71-4248-8af6-deb607127b76)
+![image](https://github.com/user-attachments/assets/0188bbdc-c78a-4bcf-8301-5f54dd47e31b)
+
 
 ## Prerequisites
 
